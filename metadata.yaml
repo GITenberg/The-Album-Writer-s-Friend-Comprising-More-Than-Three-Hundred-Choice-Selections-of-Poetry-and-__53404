@@ -1,5 +1,5 @@
 _repo: The-Album-Writer-s-Friend-Comprising-More-Than-Three-Hundred-Choice-Selections-of-Poetry-and-__53404
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Ogilvie, J. S. (John Stuart)
@@ -8,7 +8,12 @@ contributor:
     deathdate: 1910
     gutenberg_agent_id: '47361'
     url: http://www.gutenberg.org/2009/agents/47361
+covers:
+- cover_type: archival
+  image_path: 53404-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53404#The-Album-Writer-s-Friend-Comprising-More-Than-Three-Hundred-Choice-Selections-of-Poetry-and-_
 gutenberg_issued: '2016-10-30'
 gutenberg_type: Text
 identifiers:
